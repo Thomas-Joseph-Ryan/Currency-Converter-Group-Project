@@ -1,4 +1,6 @@
-# CC12-Richard-Group1
+# Agile Approaches to programming.
+
+This was a group project to get to know our group members. It was made with using a CLI.
 
 
 ## How to run the program
